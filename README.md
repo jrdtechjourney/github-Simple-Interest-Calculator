@@ -1,8 +1,13 @@
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+# Simple-Interest-Calculator
+A script to calculate simple interest given principal, annual rate of interest and time period in years.
 
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
+## Code of Conduct
+
+This project adheres to the [Contributor Covenant Code of Conduct](https://github.com/jrdtechjourney/github-final-project/blob/dfa95e095aef5ec83d3b132b9dcd81d05099f018/CODE_OF_CONDUCT.md)
+
+
+# Simple-Interest-Calculator
+A script to calculate 
+## Code of Conduct
+
+This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
